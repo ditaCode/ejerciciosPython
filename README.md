@@ -16,3 +16,13 @@ Se presenta al usuario el texto con el orden de sus palabras invertido. Se utili
 
 ## 5. Búsqueda de palabra específica
 El programa indica si la palabra "Python" se encuentra dentro del texto ingresado. Se utilizan booleanos para la búsqueda y un diccionario para expresar la respuesta al usuario.
+
+# Juego de Adivinanza de Números
+Este juego te desafía a adivinar un número secreto entre 1 y 100. Tienes ocho intentos para lograrlo.
+
+¿Cómo jugar?
+*El programa te pedirá que ingreses tu nombre.
+*Luego, te informará que ha pensado en un número entre 1 y 100.
+*Deberás ingresar un número en cada intento.
+*El programa te dará pistas sobre si tu número es menor, mayor o igual al número secreto.
+*Si adivinas el número, el programa te dirá cuántos intentos te tomó y que has ganado.
